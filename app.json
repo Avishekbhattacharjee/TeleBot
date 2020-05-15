@@ -2,11 +2,11 @@
 
 {
 
- "name": "TeleBot",
+ "name": "DenzidUserBot",
 
- "description": "Userbot created by a Aditya\n\n join https://t.me/TeleBotHelpChat for any problems or support",
+ "description": "Userbot created by a Aditya\n\n join https://t.me/Denziduserbot for any problems or support",
 
- "logo": "https://telegra.ph/file/f1143e4dd5a4c699e3614.jpg",
+ "logo": "https://telegra.ph/Denzid-05-15",
 
  "keywords": [
 
@@ -22,7 +22,7 @@
 
  ],
 
- "repository": "https://github.com/xditya/TeleBot/",
+ "repository": "https://github.com/Avishekbhattacharjee/TeleBot/",
 
  "website": "#TODO",
 
